@@ -2,7 +2,6 @@
 using namespace std;
 
 const int N = 4;
-int puzzle[N][N];
 
 bool is_solvability(string s) {
     int disorder_num = 0;
